@@ -1,6 +1,8 @@
 ## Overview
 This project investigates the dynamic properties of a biologically-inspired cortical microcircuit using the NetPyNE simulation framework.
 The study focuses on understanding gain control mechanisms and testing for Inhibition-Stabilized Network (ISN) properties through targeted optogenetic manipulations.
+![optogencellzero](code/results/optogenetic_experiment_results_traces.png)
+![gain_control](code/results/gain_control_analysis.png)
 
 ### The model simulates a network of 100 neurons comprising four distinct cell populations across cortical layers:
 
